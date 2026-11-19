@@ -33,6 +33,27 @@
 
 ---
 
-### 📈 GitHub Stats
+<table>
+<tr>
+<td valign="top" width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itstjddn&show_icons=true&theme=github_dark)
+### 🎓 Education
+
+| 기간 | 학교 / 과정 | 비고 |
+|---|---|---|
+| 2026.09 ~ | KT 에이블스쿨 (AIVLE School) 10기 · AI 트랙 | 진행 중 |
+| 2020.03 ~ 2026.08 | 경남대학교 | 졸업 |
+| 2017.03 ~ 2020.02 | 마산제일고등학교 | 졸업 |
+
+</td>
+<td valign="top" width="50%">
+
+### 📜 Certifications
+
+| 구분 | 명칭 | 취득일 |
+|---|---|---|
+| 자격증 | SQLD (SQL 개발자) | 2024.09 |
+
+</td>
+</tr>
+</table>
